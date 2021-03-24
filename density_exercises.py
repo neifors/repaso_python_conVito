@@ -13,13 +13,15 @@ class Municipality():
     el mencionado contador aumente en 1
     '''
     counter = 0
+    annual_growth_rate = 0.02
+    total_comunity_population = 0
     
-    def __init__(self, name, density, surface_km2, year_growth_rate = 0.02):
+    def __init__(self, name, density, surface_km2):
         self.name = name                #str
         self.density = density          #float
-        self.surface = surface_km2      #float 
-        self.year_growth_rate = year_growth_rate 
+        self.surface = surface_km2      #float    
         Municipality.counter += 1
+        Municipality.total_comunity_population += self.total_population
 
     def __repr__(self):
         '''
@@ -34,9 +36,10 @@ class Municipality():
                                                 densidad: float con tres decimales
                                                 superficie: float con tres decimales
         '''
-        return f'\t\t\tNombre: {self.name}\n\t\t\tDensidad: {self.density:.3f}\n\t\t\tSuperficie: {self.surface:.3f}'
+        return f'\t\t\tNombre: {self.name}\n\t\t\tDensidad: {self.density:.3f}\n\t\t\tSuperficie: {self.surface:.3f}\n\t\t\tPoblación: {self.total_population:.2f}'
 
-    def get_total_density(self):
+    @property
+    def total_population(self):
         '''
         * Ejercicio 10: Considerando que en cada objeto tenemos la superficie y densidad ambas por km2, crear un MÉTODO 
         (una función dentro del objeto) que devuelva la densidad total del municipio dado.
@@ -48,8 +51,11 @@ class Municipality():
         * Ejercicio 15: Define un método que aplique el crecimiento anual sobre un objeto
         '''
         print(f'\nLa densidad por Km2 de {self.name}, pasa de ser: {self.density:.2f}')
-        self.density = self.density + self.density*self.year_growth_rate
+        self.density += self.density*Municipality.annual_growth_rate
         print(f'a ser: {self.density:.2f}')
+    
+    def set_annual_growth(self, rate):
+        Municipality.annual_growth_rate = rate
     
     @classmethod
     def from_str(cls, cadena):
@@ -57,19 +63,20 @@ class Municipality():
         * Ejercicio 13: Crea un **classmethod** llamado from_str que crea una instancia de la siguiente cadena --> "test-3.54-23.86"
         '''
         lista = cadena.split('-')
-        return cls(lista[0],float(lista[1]),float(lista[2]))
+        try:
+            density = float(lista[1])
+            surface = float(lista[2])
+            return cls(lista[0],density,surface)
+        except ValueError as e:
+            print(f'Error: {e}')
     
     @classmethod
     def get_counter(cls):
         return cls.counter
     
-    
 #! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ FIN CLASES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-
-#! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ FUNCIONES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+#! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ FUNCIONES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 def density_average(dataset):
     '''
@@ -191,7 +198,7 @@ def main():
         print(f'\nDensities by {cont}: {portion["percentage"]}\n{portion["list"]}')
         cont += 1
 
-    municipalities_list_madrid = load_json(dataset)
+    municipalities_list_madrid = load_json(dataset) # LISTA de instancias Municipality de toda la comunidad de Madrid
     
     '''
     * Ejercicio 11: Ya que tenemos una lista con todos los objetos, con su método "get_total_density()" 
@@ -199,20 +206,18 @@ def main():
     '''
     madrid_total_density = 0
     for municipality in municipalities_list_madrid:
-        madrid_total_density += municipality.get_total_density()
+        madrid_total_density += municipality.total_population
     print(f'\nPoblación total de la comunidad de Madrid: {madrid_total_density}')
     
     cadena = "test-3.54-23.86"
     obj_from_string = Municipality.from_str(cadena)
-    print(f'Nuevo instancia de Municipality creada a partir de una cadena: {obj_from_string}')
+    print(f'\nNuevo instancia de Municipality creada a partir de una cadena: \n{obj_from_string}')
     
     obj_from_string.apply_year_growth_rate()
-
+    print(Municipality.total_comunity_population)
     o.close()
 
 #! ~~~~~~~~~~~~~~~~~~~~~~~~~~~ FIN FUNCIONES ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
 
 main()
 
