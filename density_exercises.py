@@ -1,4 +1,4 @@
-import json
+import json, csv
 from pathlib import Path
 
 #! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ CLASES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,6 +166,16 @@ def load_json(dataset):
         obj_list.append(Municipality(data["municipio_nombre"],data['densidad_por_km2'],data["superficie_km2"]))
     return obj_list
 
+def download_csv(municipalities_list):
+    f = open('./data/backup.csv','w')
+    for municipality in municipalities_list:
+        f.write(f'{municipality.name},{municipality.density},{municipality.surface},{municipality.total_population}\n')
+    f.close()
+        
+def download_csv2(municipalities_list):
+    with open('./data/backup.csv','w',newline='') as f:
+        file_to_write = csv.reader(f)
+
 def main():
     
     #! Usando os.path
@@ -216,6 +226,11 @@ def main():
     obj_from_string.apply_year_growth_rate()
     print(Municipality.total_comunity_population)
     o.close()
+    
+    '''
+    * Ejercicio 20: Crear un backup de todos nuestros objetos en un fichero tipo CSV
+    '''
+    download_csv(municipalities_list_madrid)
 
 #! ~~~~~~~~~~~~~~~~~~~~~~~~~~~ FIN FUNCIONES ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

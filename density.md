@@ -15,6 +15,7 @@
 	
 
 ## OOP
+
 * Ejercicio 5: Crear una clase de tipo municipality/municipio
 	* Debe tener solo tres propiedades nombre, densidad y superficie
 * Ejercicio 7: Crear una función que acepte un solo parámetro (municipio) y que devuleva un objeto con las propiedades (nombre, densidad, superfice)
@@ -33,3 +34,7 @@
 * Ejercicio 17: Modificiar el print() para que también devuelva la población
 * Ejercicio 18: Define un set_anual_growth que permita modificar la tasa de crecimiento
 * Ejercicio 19: Agregar un Error Handeling para verficar que el type pasado como argumento en from_string sea un float
+
+## CSV
+
+* Ejercicio 20: Crear un backup de todos nuestros objetos en un fichero tipo CSV
