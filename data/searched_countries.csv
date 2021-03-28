@@ -1,0 +1,9 @@
+name,capital,region,population,area,language,flag
+Spain,Madrid,Europe,46438422,505992.0,Spanish,https://restcountries.eu/data/esp.svg
+Italy,Rome,Europe,60665551,301336.0,Italian,https://restcountries.eu/data/ita.svg
+Portugal,Lisbon,Europe,10374822,92090.0,Portuguese,https://restcountries.eu/data/prt.svg
+Afghanistan,Kabul,Asia,27657145,652230.0,Pashto,https://restcountries.eu/data/afg.svg
+Belgium,Brussels,Europe,11319511,30528.0,Dutch,https://restcountries.eu/data/bel.svg
+Morocco,Rabat,Africa,33337529,446550.0,Arabic,https://restcountries.eu/data/mar.svg
+Canada,Ottawa,Americas,36155487,9984670.0,English,https://restcountries.eu/data/can.svg
+Australia,Canberra,Oceania,24117360,7692024.0,English,https://restcountries.eu/data/aus.svg

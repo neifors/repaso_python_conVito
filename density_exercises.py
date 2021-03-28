@@ -174,7 +174,9 @@ def download_csv(municipalities_list):
         
 def download_csv2(municipalities_list):
     with open('./data/backup.csv','w',newline='') as f:
-        file_to_write = csv.reader(f)
+        file_to_write = csv.writer(f)
+        for municipality in municipalities_list:
+            file_to_write.writerow([municipality.name,municipality.density,municipality.surface,municipality.total_population])
 
 def main():
     
