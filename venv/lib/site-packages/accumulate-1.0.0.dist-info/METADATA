@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: accumulate
+Version: 1.0.0
+Summary: Inheritance for iterable attributes.
+Home-page: https://github.com/JacobHayes/pymiscuous/tree/master/accumulate
+License: MIT
+Author: Jacob Hayes
+Author-email: jacob.r.hayes@gmail.com
+Requires-Python: >=3,<4
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+
+accumulate
+----------
+
+Package `accumulate` eases inheritance of iterable class attributes by accumulating values along the MRO.
+

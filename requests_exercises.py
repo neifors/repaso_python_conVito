@@ -1,24 +1,8 @@
 import requests as req
 import csv, json, os, sys
 from pathlib import Path
-
-'''
-* Ejercicio 4: Crear una pequeña aplicación con las siguientes características:
-    
-    Debe permitirnos buscar países por nombre y por continentes 
-    Cada uno de los países buscados debe quedar escrito en un archivo tipo csv que solo admitira los siguientes valores: 
-            name, 
-            capital, 
-            region, 
-            population, 
-            area, 
-            idioma (el primero), 
-            flag 
-    A su vez estos valores acturán como encabezados 
-    
-    Cuando se busquen países por continente, estos deben ser escritos en un archivo json con nombre dinámico 
-    EJ. dinámico --> Si se busca "africa", el archivo deberá llamarse --> africa.json
-'''
+import time, threading
+from concurrent.futures import ThreadPoolExecutor
 
 def add_to_csvFile(path,lines):
     with open(path,'a', newline='') as f:
@@ -29,47 +13,47 @@ def add_to_csvFile(path,lines):
         else:
             csv_file.writerow(lines)
             
+def get_data_from_ulr(area, to_search):
+    if area == 'continent':
+        response = req.get(f'https://restcountries.eu/rest/v2/region/{to_search}').json()
+        return response
+    elif area == 'country':
+        response = req.get(f'https://restcountries.eu/rest/v2/name/{to_search}').json()
+        return response
+            
 def country_finder():
     name = input("\n¿Qué país desea buscar?: ")
     my_path = Path('./data/searched_countries.csv')
     
-    try: 
-        response = req.get(f'https://restcountries.eu/rest/v2/name/{name}').json()
-        print(f'''
-              Name: {response[0]['name']},
-              Capital: {response[0]['capital']},
-              Region: {response[0]['region']},
-              Population: {response[0]['population']},
-              Area: {response[0]['area']},
-              Language: {response[0]['languages'][0]['name']},
-              Flag url: {response[0]['flag']}''')
-        data_to_save = [response[0]['name'],response[0]['capital'],response[0]['region'],response[0]['population'],response[0]['area'],response[0]['languages'][0]['name'],response[0]['flag']]
-    except KeyError:
-        print(f"No hay resultados para la búsqueda que estás realizando.")
-
-        return False
-    
-    if my_path.is_file():
-        add_to_csvFile(my_path,data_to_save)
-        return True
-    else:
-        head_line = ['name', 'capital', 'region', 'population', 'area', 'language', 'flag']
-        add_to_csvFile(my_path,[head_line,data_to_save])
-        return True
+    with ThreadPoolExecutor() as executor:
+        future = executor.submit(get_data_from_ulr, area='country', to_search=name)
+        print('\n\nObteniendo datos resultado.....')
         
+    if future.result() != {"status": 404, "message": "Not Found"}:
+        print(f"Name: {future.result()[0]['name']}\nCapital: {future.result()[0]['capital']}\nRegion: {future.result()[0]['region']}\nPopulation: {future.result()[0]['population']}\nArea: {future.result()[0]['area']}\nLanguage: {future.result()[0]['languages'][0]['name']}\nFlag url: {future.result()[0]['flag']}")
+        data_to_save = [future.result()[0]['name'],future.result()[0]['capital'],future.result()[0]['region'],future.result()[0]['population'],future.result()[0]['area'],future.result()[0]['languages'][0]['name'],future.result()[0]['flag']]
+        if my_path.is_file():
+            add_to_csvFile(my_path,data_to_save)
+        else:
+            head_line = ['name', 'capital', 'region', 'population', 'area', 'language', 'flag']
+            add_to_csvFile(my_path,[head_line,data_to_save])
+    else:
+        print(f"\nNo hay resultados para la búsqueda que estás realizando.")
+  
 def continent_countries_extraction():
     region = input("\n¿Qué continente desea buscar?: ")
     my_path = Path(f'./data/{region}.json')
 
-    response = req.get(f'https://restcountries.eu/rest/v2/region/{region}').json()
-    if response != {"status": 404, "message": "Not Found"}:
-        with open(my_path, 'w') as json_file:
-            json.dump([element for element in response], json_file)
-            return True
-    else:
-        print( 'ERROR 404: Continent Not Found')
-        return False
+    with ThreadPoolExecutor() as executor:
+        future = executor.submit(get_data_from_ulr, area='continent', to_search=region)
+        print('\n\nObteniendo datos resultado.....')
     
+    if future.result() != {"status": 404, "message": "Not Found"}:
+        with open(my_path, 'w') as json_file:
+            json.dump([element for element in future.result()], json_file)
+    else:
+        print(f"\nNo hay resultados para la búsqueda que estás realizando.")
+        
 def get_total_population():
     continent = input('\nContinente del que desea saber la población total: ')
     try:
@@ -91,6 +75,7 @@ def menu():
     return opt
 
 def main():
+   
     while True:
         opt = menu()
         if opt == '1':
@@ -105,9 +90,7 @@ def main():
             print('Hasta pronto...')
             break
         input('\nPulse enter para continuar')
-
-
-            
+         
 main()
 
 sys.exit()
