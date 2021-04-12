@@ -1,48 +1,81 @@
+import math
+
 
 class Statistics:
-    def __init__(self, x , y ):
+    def __init__(self, x, y):
         self.x = x
         self.y = y
 
     @property
-    def merge(self):
-        return list(zip(self.x, self.y))
+    def n(self):
+        return len(self.x)
+    
+    @property
+    def x_mean(self):
+        return sum(self.x)/self.n
 
     @property
-    def x_avg(self):
-        return sum(self.x)/len(self.x)
-    @property
-    def y_avg(self):
-        return sum(self.y)/len(self.y)
+    def y_mean(self):
+        return sum(self.y)/self.n
 
-    #VARIANCE:
+    @property
+    def x_times_y(self):
+        result = sum([couple[0]*couple[1] for couple in zip(self.x, self.y)])
+        # lo que hace la comprehension: 
+        # lista_en_conjunto = zip(self.x, self.y)
+        # result = 0
+        # for pareja in lista_en_conjunto:
+        #     result += pareja[0] * pareja[1]
+        return result
+    
+    @property
+    def x_pow(self):
+        result = sum([value**2 for value in self.x])
+        return result
+
+    @property
+    def y_pow(self):
+        result = sum([value**2 for value in self.y])
+        return result
+
+    @property
+    def x_variance(self):
+        divisor = sum([(num-self.x_mean)**2 for num in self.x])
+        return divisor/self.n
+    
     @property
     def y_variance(self):
-        result = 0
-        n = len(self.y)
-        for value in self.y:
-            result += value - self.y_avg
-        return result/n
-    #LINEAR REGRESSION:
+        divisor = sum([(num-self.y_mean)**2 for num in self.y])
+        return divisor/self.n
+    
     @property
-    def b_coeficent(self):
-        n = len(self.x)
-        sum_x = sum(self.x)
-        sum_y = sum(self.y)
-        sum_x_pow_2 = sum([x**2 for x in self.x])
-        sum_x_times_y = 0
-        for couple in self.merge:
-            sum_x_times_y += couple[0] * couple[1]
-        result = ((n*sum_x_times_y)-(sum_x*sum_y))/((n*sum_x_pow_2)-(sum_x)**2)
+    def covariance(self):
+        result = (self.x_times_y/self.n) - self.x_mean*self.y_mean
         return result
+    
     @property
-    def order_b_coeficent(self):
-        return self.y_avg - self.b_coeficent*self.x_avg
-    def direct_regression(self, score):
-        return self.b_coeficent * score + self.order_b_coeficent
-        
+    def b(self):
+        divisor = self.n*self.x_times_y - sum(self.x)*sum(self.y)
+        dividend = self.n*self.x_pow - sum(self.x)**2
+        return divisor/dividend
+
+    @property
+    def b_0(self):
+        result = self.y_mean - self.b*self.x_mean
+        return result
+
+    @property
+    def r_pearson(self):
+        result = self.x_times_y / math.sqrt(self.x_pow*self.y_pow)
+        return result
+
+    def get_prediction(self, x_value):
+        result = self.b*x_value + self.b_0
+        return result
+    
+
+test = Statistics([1,2,3], [1,2,3])
+print(test.r_pearson)
 
 
 
-data_1 = Statistics([1,2,13],[1,1,2])
-print(data_1.y_variance)
