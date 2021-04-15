@@ -20,22 +20,32 @@ class Statistics:
 
     @property
     def x_times_y(self):
-        result = sum([couple[0]*couple[1] for couple in zip(self.x, self.y)])
+        # result = sum([couple[0]*couple[1] for couple in zip(self.x, self.y)])
         # lo que hace la comprehension: 
         # lista_en_conjunto = zip(self.x, self.y)
         # result = 0
         # for pareja in lista_en_conjunto:
         #     result += pareja[0] * pareja[1]
+        #? CON MAP
+        result = sum(map(lambda a, b: a*b, self.x, self.y))
+
         return result
     
     @property
     def x_pow(self):
-        result = sum([value**2 for value in self.x])
+        # result = sum([value**2 for value in self.x])
+        
+        #? CON MAP
+        result = sum(map(lambda x: x**2, self.x ))
         return result
 
     @property
     def y_pow(self):
-        result = sum([value**2 for value in self.y])
+        # result = sum([value**2 for value in self.y])
+        
+        #? CON MAP
+        result = sum(map(lambda y: y**2, self.y ))
+
         return result
 
     @property
