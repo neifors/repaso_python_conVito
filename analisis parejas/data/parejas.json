@@ -1,0 +1,5553 @@
+[
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1995",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "22"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "23"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "25"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "12",
+        "num_inscripciones": "29"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "29"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "30"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "24"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1996",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "29"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "28"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "32"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "17",
+        "num_inscripciones": "47"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "36"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "36"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "34"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "16",
+        "num_inscripciones": "50"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "12",
+        "num_inscripciones": "35"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "37"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "24"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "47"
+    },
+    {
+        "inscripcion_año": "1997",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "31"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "31"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "37"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "32"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "31"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "13",
+        "num_inscripciones": "46"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "38"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "33"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "26"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "31"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "39"
+    },
+    {
+        "inscripcion_año": "1998",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "18",
+        "num_inscripciones": "50"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "13",
+        "num_inscripciones": "48"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "15",
+        "num_inscripciones": "44"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "42"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "33"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "34"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "41"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "18",
+        "num_inscripciones": "50"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "13",
+        "num_inscripciones": "48"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "42"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "15",
+        "num_inscripciones": "43"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "45"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "1999",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "48"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "19",
+        "num_inscripciones": "50"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "49"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "14",
+        "num_inscripciones": "43"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "44"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "38"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "14",
+        "num_inscripciones": "48"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "31"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "21",
+        "num_inscripciones": "72"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "54"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "44"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "36"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2000",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2001",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2002",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2003",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2004",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2005",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "14",
+        "num_inscripciones": "47"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "50",
+        "num_inscripciones": "175"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "43",
+        "num_inscripciones": "158"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "19",
+        "num_inscripciones": "78"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "32",
+        "num_inscripciones": "141"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "31",
+        "num_inscripciones": "155"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "18",
+        "num_inscripciones": "120"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "31",
+        "num_inscripciones": "113"
+    },
+    {
+        "inscripcion_año": "2006",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "32",
+        "num_inscripciones": "137"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "33",
+        "num_inscripciones": "151"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "42",
+        "num_inscripciones": "196"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "34",
+        "num_inscripciones": "165"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "33",
+        "num_inscripciones": "185"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "32",
+        "num_inscripciones": "196"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "65"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "18",
+        "num_inscripciones": "69"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "29",
+        "num_inscripciones": "117"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "26",
+        "num_inscripciones": "151"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "25",
+        "num_inscripciones": "143"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "28",
+        "num_inscripciones": "128"
+    },
+    {
+        "inscripcion_año": "2007",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "20",
+        "num_inscripciones": "135"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "24",
+        "num_inscripciones": "166"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "19",
+        "num_inscripciones": "134"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "36",
+        "num_inscripciones": "192"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "23",
+        "num_inscripciones": "143"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "31",
+        "num_inscripciones": "147"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "295"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "47",
+        "num_inscripciones": "281"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "53",
+        "num_inscripciones": "307"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "60",
+        "num_inscripciones": "370"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "54",
+        "num_inscripciones": "307"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "24",
+        "num_inscripciones": "152"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2008",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "39",
+        "num_inscripciones": "205"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "55",
+        "num_inscripciones": "286"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "65",
+        "num_inscripciones": "322"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "58",
+        "num_inscripciones": "263"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "44",
+        "num_inscripciones": "225"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "39",
+        "num_inscripciones": "248"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "57",
+        "num_inscripciones": "261"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "30",
+        "num_inscripciones": "180"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "56",
+        "num_inscripciones": "294"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "47",
+        "num_inscripciones": "279"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "41",
+        "num_inscripciones": "260"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "46",
+        "num_inscripciones": "224"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2009",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "40",
+        "num_inscripciones": "203"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "53",
+        "num_inscripciones": "284"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "43",
+        "num_inscripciones": "290"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "59",
+        "num_inscripciones": "276"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "41",
+        "num_inscripciones": "252"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "47",
+        "num_inscripciones": "240"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "37",
+        "num_inscripciones": "250"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "38",
+        "num_inscripciones": "193"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "35",
+        "num_inscripciones": "240"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "52",
+        "num_inscripciones": "285"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "55",
+        "num_inscripciones": "276"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "52",
+        "num_inscripciones": "224"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2010",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "53",
+        "num_inscripciones": "215"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "78",
+        "num_inscripciones": "291"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "82",
+        "num_inscripciones": "344"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "100",
+        "num_inscripciones": "355"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "99",
+        "num_inscripciones": "397"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "124",
+        "num_inscripciones": "383"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "87",
+        "num_inscripciones": "345"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "68",
+        "num_inscripciones": "230"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "54",
+        "num_inscripciones": "225"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "88",
+        "num_inscripciones": "288"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "83",
+        "num_inscripciones": "299"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "20"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "87",
+        "num_inscripciones": "238"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2011",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "66",
+        "num_inscripciones": "236"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "82",
+        "num_inscripciones": "271"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "81",
+        "num_inscripciones": "240"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "59",
+        "num_inscripciones": "210"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "1"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "43",
+        "num_inscripciones": "161"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "56",
+        "num_inscripciones": "210"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "64",
+        "num_inscripciones": "186"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "55",
+        "num_inscripciones": "161"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "188"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "244"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "43",
+        "num_inscripciones": "182"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "31",
+        "num_inscripciones": "163"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2012",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "30",
+        "num_inscripciones": "183"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "55",
+        "num_inscripciones": "209"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "42",
+        "num_inscripciones": "201"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "292"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "45",
+        "num_inscripciones": "274"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "34",
+        "num_inscripciones": "264"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "42",
+        "num_inscripciones": "213"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "29",
+        "num_inscripciones": "166"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "44",
+        "num_inscripciones": "210"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "2"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "49",
+        "num_inscripciones": "310"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "62",
+        "num_inscripciones": "275"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "50",
+        "num_inscripciones": "254"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2013",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "60",
+        "num_inscripciones": "285"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "79",
+        "num_inscripciones": "324"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "20"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "72",
+        "num_inscripciones": "297"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "53",
+        "num_inscripciones": "253"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "22"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "52",
+        "num_inscripciones": "253"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "49",
+        "num_inscripciones": "269"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "22"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "63",
+        "num_inscripciones": "277"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "58",
+        "num_inscripciones": "187"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "39",
+        "num_inscripciones": "187"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "72",
+        "num_inscripciones": "311"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "54",
+        "num_inscripciones": "229"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "61",
+        "num_inscripciones": "233"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2014",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "258"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "57",
+        "num_inscripciones": "279"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "25"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "60",
+        "num_inscripciones": "317"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "63",
+        "num_inscripciones": "279"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "64",
+        "num_inscripciones": "307"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "68",
+        "num_inscripciones": "332"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "20"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "42",
+        "num_inscripciones": "217"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "32",
+        "num_inscripciones": "185"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "28",
+        "num_inscripciones": "168"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "62",
+        "num_inscripciones": "284"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "30"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "59",
+        "num_inscripciones": "266"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "214"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2015",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "47",
+        "num_inscripciones": "224"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "69",
+        "num_inscripciones": "303"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "61",
+        "num_inscripciones": "303"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "68",
+        "num_inscripciones": "331"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "11",
+        "num_inscripciones": "27"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "64",
+        "num_inscripciones": "307"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "23"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "57",
+        "num_inscripciones": "332"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "26",
+        "num_inscripciones": "145"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "32",
+        "num_inscripciones": "208"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "27",
+        "num_inscripciones": "231"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "58",
+        "num_inscripciones": "346"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "59",
+        "num_inscripciones": "369"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "42",
+        "num_inscripciones": "287"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2016",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "23"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "57",
+        "num_inscripciones": "325"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "36"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "44",
+        "num_inscripciones": "347"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "19"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "27"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "65",
+        "num_inscripciones": "410"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "41",
+        "num_inscripciones": "309"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "24"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "57",
+        "num_inscripciones": "355"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "24"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "51",
+        "num_inscripciones": "395"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "40"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "36",
+        "num_inscripciones": "211"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "25",
+        "num_inscripciones": "223"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "19"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "25",
+        "num_inscripciones": "218"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "5"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "48",
+        "num_inscripciones": "382"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "22"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "37",
+        "num_inscripciones": "364"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "34"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "30",
+        "num_inscripciones": "280"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2017",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "20"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "36",
+        "num_inscripciones": "354"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "13"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "24"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "32",
+        "num_inscripciones": "350"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "28"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "34",
+        "num_inscripciones": "347"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "32"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "42",
+        "num_inscripciones": "405"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "19"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "27"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "36",
+        "num_inscripciones": "365"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "41",
+        "num_inscripciones": "408"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "34"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "192"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "20"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "15",
+        "num_inscripciones": "232"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "12",
+        "num_inscripciones": "210"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "16",
+        "num_inscripciones": "389"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "29"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "19",
+        "num_inscripciones": "328"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "20"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "33"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "247"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2018",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "27"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "25",
+        "num_inscripciones": "380"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "24"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "29"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "12",
+        "num_inscripciones": "365"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "22"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "28"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "309"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "25"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "12",
+        "num_inscripciones": "259"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "23"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "7",
+        "num_inscripciones": "320"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "05",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "31"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "8",
+        "num_inscripciones": "294"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "17"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "9",
+        "num_inscripciones": "272"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "231"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "10",
+        "num_inscripciones": "277"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "9"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "300"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "19"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "5",
+        "num_inscripciones": "267"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "3",
+        "num_inscripciones": "223"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2019",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "6",
+        "num_inscripciones": "280"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "4",
+        "num_inscripciones": "276"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "11"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "32"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "129"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "16"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "177"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "7"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "06",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "146"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "07",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "2",
+        "num_inscripciones": "135"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "4"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "08",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "222"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "12"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "09",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "303"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "15"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "10",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "25"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "1",
+        "num_inscripciones": "279"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "10"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "11",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "223"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "8"
+    },
+    {
+        "inscripcion_año": "2020",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "12",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "30"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "207"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "6"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "01",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "18"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "362"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "14"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "02",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "26"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "322"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "21"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "03",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "26"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "heterosexual",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "171"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual femenina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "3"
+    },
+    {
+        "inscripcion_año": "2021",
+        "pareja_tipo": "homosexual masculina",
+        "inscripcion_mes": "04",
+        "num_inscripciones_cancelacion": "0",
+        "num_inscripciones": "13"
+    }
+]
