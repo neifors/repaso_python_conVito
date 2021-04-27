@@ -56,7 +56,7 @@ def country_finder():
             save_flag = input("\n\nRESPUESTA INCORRECTA\n¿Quieres guardar la bandera de este pais en formato svg? (y/n): ")
         if save_flag in "yY":
             response = req.get(future.result()[0]['flag'])
-            save_flag_svg('./images',response.content, name)
+            save_flag_svg('./data/images',response.content, name)
         
     else:
         print(f"\nNo hay resultados para la búsqueda que estás realizando.")
@@ -98,7 +98,7 @@ def backup_history_flags(flags_container):
         file_name = url_split[-1].split('.')
         name = file_name[0]
         response = req.get(url)    
-        save_flag_svg('./flags_history_backup', response.content, name)
+        save_flag_svg('./data/flags_history_backup', response.content, name)
 
 def search_history():
     flags_container = []
