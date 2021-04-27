@@ -87,7 +87,7 @@ def dea_by_distance(datafile):
         aux_distance = aux_dea.get_distance(x_user, y_user)
         if aux_distance < distance: 
             distance = aux_distance
-            dea = deafile
+            dea = aux_dea
     return dea
 
 def menu():
@@ -132,10 +132,10 @@ def main():
                 #? DEA BY DISTANCE    
                 elif opt == "2":
                     nearest_dea = dea_by_distance(data)
-                    print(nearest_dea)
+                    print(nearest_dea.longitude, nearest_dea.latitude)
                 
                 
-        #?Pruebas con el json de deas
+        #?Pruebas con el json de deas para conocer el dataset
         # print(f"\nNº total de DEAS en la comunidad de Madrid: {n_deas(data)}")            
         # deas_inside_m30 = filter(lambda dea: dea != None, list(sample_by_postalcodes(postalcodes_inside_m30,data)))
         # print(f"\nNº total de DEAS dentro de la M-30: {n_deas(list(deas_inside_m30))}")

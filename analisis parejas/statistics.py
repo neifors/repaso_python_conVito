@@ -44,9 +44,7 @@ class Statistics:
         # result = sum([value**2 for value in self.y])
         
         #? CON MAP
-        result = sum(map(lambda y: y**2, self.y ))
-
-        return result
+        return sum(map(lambda y: y**2, self.y ))
 
     @property
     def x_variance(self):
