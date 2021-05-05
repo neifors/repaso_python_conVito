@@ -99,12 +99,11 @@ def dea_by_distance(datafile, user_coordinates = None):
         y_user = float(input("Su posición y: "))
     else:
         location = utm.from_latlon(user_coordinates[0], user_coordinates[1])
-        x_user = location[0]
+        x_user = int(location[0])
         print(x_user)
-        y_user = location[1]
+        y_user = int(location[1])
         print(y_user)
         
-    dea = None
     distance = 1000000000
     for deafile in datafile:
         aux_dea = create_dea(deafile)
@@ -175,6 +174,7 @@ def main():
     opt = menu()
     
     while opt != "4": 
+        
         #? NEW USER    
         if opt == "1":
             user = create_user()
@@ -182,6 +182,8 @@ def main():
                 users["data"].append({"name":user.name,"password":user.password})
             else:
                 users = {"data":[{"name":user.name,"password":user.password}]}
+                
+                
         #? TO ACCES 
         if opt == "2":
             cont = 1
@@ -190,33 +192,37 @@ def main():
                 print(f"Quedan {3-cont} intentos.")
                 cont += 1
                 permission = to_access()
+                
             #? PERMITED USER
             if permission:
                 os.system("cls")
                 opt = menu_deas()
+                
                 #? DEA BY CODE
                 if opt == "1":
                     deafile = dea_by_code(data)
                     print(create_dea(deafile).address) if deafile != None else print("\nDEA no encontrado")
+                    
                 #? DEA BY DISTANCE    
                 elif opt == "2":
-                    opt = menu_distance()
+                    # opt = menu_distance()
                     #? A partir de coordenadas x e y
-                    if opt == "1":
-                        nearest_dea, user_pos = dea_by_distance(data)
-                        print("\n",nearest_dea.address)
-                        utm_loc = utm.to_latlon(user_pos[0], user_pos[1], 30, "N")
-                        print(distance.distance(utm_loc,(nearest_dea.longitude, nearest_dea.latitude)).m)
-                        print(f"https://www.google.com/maps/dir/{utm_loc[0]},+{utm_loc[1]}/{nearest_dea.longitude},{nearest_dea.latitude}")
+                    # if opt == "1":
+                    nearest_dea, user_pos = dea_by_distance(data)
+                    print("\n",nearest_dea.address)
+                    utm_loc = utm.to_latlon(user_pos[0], user_pos[1], 30, "N")
+                    print(distance.distance(utm_loc,(nearest_dea.longitude, nearest_dea.latitude)).m)
+                    print(f"https://www.google.com/maps/dir/{utm_loc[0]},+{utm_loc[1]}/{nearest_dea.longitude},{nearest_dea.latitude}")
                         
-                    #? A partir de la dirección del usuario
-                    elif opt == "2":                                                                           #! |
-                        user_lat,user_long = get_user_coordenates()                                            #! | 
-                        nearest_dea, user_pos = dea_by_distance(data, user_coordinates=[user_lat,user_long])   #! | FUNCIONA REGULAR. REVISAR
-                        print("\n",nearest_dea.address)                                                        #! |
-                        utm_loc = utm.to_latlon(user_pos[0], user_pos[1], 30, "N")                             #! |
-                        print(distance.distance(utm_loc,(nearest_dea.longitude, nearest_dea.latitude)).m)
-                        print(f"https://www.google.com/maps/dir/{utm_loc[0]},+{utm_loc[1]}/{nearest_dea.longitude},{nearest_dea.latitude}")
+                    # #? A partir de la dirección del usuario
+                    # elif opt == "2":                                                                           #! |
+                    #     user_lat,user_long = get_user_coordenates()                                            #! | 
+                    #     nearest_dea, user_pos = dea_by_distance(data, user_coordinates=[user_lat,user_long])   #! | FUNCIONA REGULAR. REVISAR
+                    #     print("\n",nearest_dea.address)                                                        #! |
+                    #     utm_loc = utm.to_latlon(user_pos[0], user_pos[1], 30, "N")                             #! |
+                    #     print(distance.distance(utm_loc,(nearest_dea.longitude, nearest_dea.latitude)).m)
+                    #     print(f"https://www.google.com/maps/dir/{utm_loc[0]},+{utm_loc[1]}/{nearest_dea.longitude},{nearest_dea.latitude}")
+             
              
         #? ADMINS
         if opt == "3":
